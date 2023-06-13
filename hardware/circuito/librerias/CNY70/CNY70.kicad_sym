@@ -1,0 +1,120 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "CNY70" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -5.08911 5.59802 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "CNY70" (id 1) (at -5.08891 -7.12447 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "DIPS254W50P254L710H600Q4" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "1.8" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Vishay Semiconductor Opto Division" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SNAPEDA_PACKAGE_ID" "18950" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "IPC-7351B" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "CNY70_0_0"
+      (polyline
+        (pts (xy -2.413 2.54) (xy -5.08 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.413 -2.54) (xy -5.08 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.81 2.54) (xy 1.27 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 1.27 0.0) (xy 3.81 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.81 2.54) (xy 5.08 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.81 -2.54) (xy 5.08 -2.54)) (stroke (width 0.1524))
+      )
+      (rectangle (start 0.889294 -2.55033) (end 1.651 2.54)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 3.81 2.54)
+          (xy 2.54 2.032)
+          (xy 3.302 1.27)
+          (xy 3.81 2.54)
+        )
+        (stroke (width 0.1524)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -3.683 1.27) (xy -2.413 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.413 -0.635) (xy -1.143 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.143 -0.635) (xy -2.413 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.143 1.27) (xy -2.413 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.413 1.27) (xy -3.683 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.413 -0.635) (xy -3.683 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.413 2.54) (xy -2.413 1.27)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.413 -2.54) (xy -2.413 -0.635)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.413 -0.635) (xy -2.413 1.27)) (stroke (width 0.1524))
+      )
+      (rectangle (start -5.08 -5.08) (end 5.08 5.08)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -10.16 2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "CATH"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 -2.54 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "COLL"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 2.54 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "E"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
