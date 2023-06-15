@@ -1,14 +1,14 @@
 # SumoBot
 
-En esta carpeta se encuentra el circuito del robot. 
-En la carpeta "placa" se encuentra el circuito.
-En la carpeta "librerias" se encuentra archivos para agregar footprint y huellas que no se encuentran en las librerías por defecto en kicad.
+In this folder is the circuit of the robot.
+In the folder "placa" you will find the circuit.
+In the "librerias" folder there are files to add footprints that are not found in the default libraries in kicad.
 
 ### Software
-Se utiliza Kicad 6.0 para la placa.
+Kicad 6.0 is used for the board. 
 
 ### footprint y huellas
-se utilizaron footprint y huellas que se encuentran en los siguientes enlaces:
+Footprint and symbols that are not found by default in Kicad were used. These are located in the "Libraries" folder. Below are the links to the original source of these elements.
 
-- [Sensor infrarrojo CNY70](https://www.snapeda.com/parts/CNY70/Vishay%20Semiconductor%20Opto%20Division/view-part/)
-- [Sensor ultrasonido HC-SR04](https://www.snapeda.com/parts/HC-SR04/Applied%20Avionics/view-part/)
+- [Infrared sensor CNY70](https://www.snapeda.com/parts/CNY70/Vishay%20Semiconductor%20Opto%20Division/view-part/)
+- [Ultrasonic sensor HC-SR04](https://www.snapeda.com/parts/HC-SR04/Applied%20Avionics/view-part/)
