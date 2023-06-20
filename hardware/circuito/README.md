@@ -12,3 +12,6 @@ Footprint and symbols that are not found by default in Kicad were used. These ar
 
 - [Infrared sensor CNY70](https://www.snapeda.com/parts/CNY70/Vishay%20Semiconductor%20Opto%20Division/view-part/)
 - [Ultrasonic sensor HC-SR04](https://www.snapeda.com/parts/HC-SR04/Applied%20Avionics/view-part/)
+
+### components
+Component specifications can be found in the list of commercial components [here] (https://github.com/valeeBurgos/SumoBot/tree/main/hardware/body)
