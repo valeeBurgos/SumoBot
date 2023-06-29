@@ -22,6 +22,5 @@ This includes (with images):
 - 1 x Protoboard  (9)
 - mini 3PI car N20 Caster (10)
 - Cabos  
-
-| ![Component 2](./images/component2.png) | ![Component 1](./images/component1.png) |
-| :-------------------------------------: | :-------------------------------------: |
+| ![Component 2](./images/component2.png){: height="200px" } | ![Component 1](./images/component1.png){: height="200px" } |
+| :--------------------------------------------------------: | :--------------------------------------------------------: |
