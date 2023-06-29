@@ -23,5 +23,5 @@ This includes (with images):
 - mini 3PI car N20 Caster (10)
 - Cabos  
 
-![Components images](./images/component2.png)
-![Components images](./images/component1.png)
+| ![Component 2](./images/component2.png) | ![Component 1](./images/component1.png) |
+| :-------------------------------------: | :-------------------------------------: |
