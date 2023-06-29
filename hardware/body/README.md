@@ -11,12 +11,17 @@ This includes (with images):
 
 
 ## Commercial components
-- 2 x Motor Reductor 192rpm marca Troy modelo Luxor 25GA 12V
-- 1 x Driver L298N Puente H
-- 1 x UNO R3 (UNO Full Microcontrolador Compatible, based on an ATmega microcontroller)
-- 3 x Sensor Ultrasonico HC-SR04 
-- 1 x Push Button Momentary Switch 12mm 
-- 1 x Linear Regulator L7805CV 
-- mini 3PI car N20 Caster
-- 1 x Protoboard 
+- 1 x UNO R3 (UNO Full Microcontrolador Compatible, based on an ATmega microcontroller) (1)
+- 2 x Motor Reductor 192rpm marca Troy modelo Luxor 25GA 12V (2)
+- 1 x Driver L298N Puente H (3)
+- 1 x Linear Regulator L7805CV  (4)
+- 3 x Sensor Ultrasonico HC-SR04 (5)
+- 3 x Push Button Momentary Switch 12mm (6)
+- Floureon LiPo Battery 7,4 V 1500 mAh (7)
+- 4 x analog Infrared reflective sensor 1-a (8)
+- 1 x Protoboard  (9)
+- mini 3PI car N20 Caster (10)
 - Cabos  
+
+![Components images](./images/component2.png)
+![Components images](./images/component1.png)
