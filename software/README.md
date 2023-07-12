@@ -7,6 +7,6 @@ Here is the code implemented for the robot.
 - Programmed in Arduino IDE
 
 ### Pines
-
+You can find all the information of the pins in the folder "circuit".
 
 ### Algorithm explanation
