@@ -110,6 +110,7 @@ In general, it is as follows:
 ![4 step](./images/step_35.png)
 
 5. Last step
+
 Attach wheels to engines carefully.
 Confirm that the battery is firm.
 Secure the breadboard with 4 bolts to parts 5 and 6.  
