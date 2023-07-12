@@ -51,7 +51,7 @@ Inside the CAD folder you will find the following files:
 - Soporte motor (8) *
 
 Whose number in parentheses corresponds to those labeled in the following image
-[3D components](./images/3d_component.png)
+![3D components](./images/3d_component.png)
 
 In the components folder you can find the commercial components used in .stl format. These are not to be printed, only used for a better visualization of the space.
 
@@ -81,7 +81,7 @@ This corresponds to the following:
 - The two parts of the base are joined with 2 M3 x 10 bolts with nuts.
 - Piece 3 is joined with three M3 x 10 people. This piece also joins the two parts of the base.
 The expected result is the one in the photo.
-[1 step](./images/step_1.png)
+![1 step](./images/step_1.png)
 
 2. First electrical connections
 
@@ -92,7 +92,7 @@ To each added sensor, use an arduino cable and connect it. Ideally, these connec
 - Piece 4 is assembled. This is done by fitting the hole in the middle with the box of piece 1, in the lower part it has some cylinders that must be fitted with piece 1.
 - Part 4 is joined to part 2 using 2 M3 x 10 bolts.
 - Piece 4 is joined with pieces 5 and 6 with two M3 x10 buts.
-[3 step](./images/step_2.png)
+![3 step](./images/step_2.png)
 
 4. Circuit in universal protoboard
 
@@ -106,8 +106,8 @@ The circuit is then prepared. For this, a universal breadboard is used.
 
 Separately, connect the batteries in series. For this, piece 12 is used. If you have a single battery with sufficient voltage, this can be omitted. You must connect the ground with the rest of the circuit, connect the battery to the L298N and to the voltage regulator, from which the microcontroller and sensors are fed. 
 In general, it is as follows:
-[4 step](./images/step_3.png)
-[4 step](./images/step_35.png)
+![4 step](./images/step_3.png)
+![4 step](./images/step_35.png)
 
 5. Last step
 Attach wheels to engines carefully.
