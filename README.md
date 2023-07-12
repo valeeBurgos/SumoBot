@@ -7,7 +7,7 @@ In robotic sumo competitions, robots must adhere to certain rules, such as the m
 
 ### Hardware
 In the "Hardware" folder you can find everything related to the physical development of the project, including the list of commercial materials, materials manufactured with indications and original files (for example, 3D printing), assembly instructions, observations and recommendations.
-![](./hardware/images/final.png)
+![](./hardware/body/images/final.png)
 
 ### Software
 In the "Software" folder you can find what is related to the code used. This is programmed in Arduino IDE and the algorithm will be explained in general terms.
